@@ -23,9 +23,8 @@ Feel free to reach out to me to discuss web development, job opportunities, or c
 - **Email:** [your.email@example.com](mailto:valentin.melia@holbertonstudents.com)
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/valentin-melia/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaal34&show_icons=true&locale=en" alt="vaal34" /></p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaal34)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vaal34)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaal34&show_icons=true&locale=en" alt="vaal34" /></p>
 
