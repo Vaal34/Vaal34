@@ -24,6 +24,8 @@ Feel free to reach out to me to discuss web development, job opportunities, or c
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/valentin-melia/)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaal34&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Vaal34's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaal34&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Vaal34's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaal34&theme=dark&hide_border=true" alt="Vaal34's GitHub Stats" />
+<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vaal34&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Vaal34's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaal34&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Vaal34's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaal34&theme=dark&hide_border=true" alt="Vaal34's GitHub Stats" />
+</div>
