@@ -24,5 +24,6 @@ Feel free to reach out to me to discuss web development, job opportunities, or c
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/valentin-melia/)
 
 
-[(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=Vaal34&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Vaal34&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Vaal34's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaal34&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Vaal34's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaal34&theme=dark&hide_border=true" alt="Vaal34's GitHub Stats" />
