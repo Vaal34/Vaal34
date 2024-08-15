@@ -20,8 +20,8 @@ My goal is to become a proficient full-stack developer capable of designing and 
 
 Feel free to reach out to me to discuss web development, job opportunities, or collaborative projects.
 
-- **Email:** [your.email@example.com](mailto:valentin.melia@holbertonstudents.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/valentin-melia/)
+- **Email:** [valentin.melia@holbertonstudents.com](mailto:valentin.melia@holbertonstudents.com)
+- **LinkedIn:** [Valentin Melia](https://www.linkedin.com/in/valentin-melia/)
 
 
 <div style="display: flex; flex-direction: column;">
