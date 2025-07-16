@@ -4,7 +4,7 @@ I am a web development student with a strong passion for full-stack development.
 
 ## 🔧 Technologies & Skills
 
-- **Front-end:** HTML, CSS, JavaScript, React, Next, Dart
+- **Front-end:** HTML, CSS, JavaScript, React, Next, Dart, Tailwind
 - **Back-end:** Node.js, Express, MySQL, Python, Flask, SqlAlchemy
 - **Other tools:** Git, GitHub, Docker, REST APIs
 
@@ -22,6 +22,7 @@ Feel free to reach out to me to discuss web development, job opportunities, or c
 
 - **Email:** [valentin.melia@holbertonstudents.com](mailto:valentin.melia@holbertonstudents.com)
 - **LinkedIn:** [Valentin Melia](https://www.linkedin.com/in/valentin-melia/)
+- **Portfolio:** [Valentin Melia](https://www.valentinmelia.com)
 
 
 <div style="display: flex; flex-direction: column;">
