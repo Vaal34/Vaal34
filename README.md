@@ -119,24 +119,6 @@ Je crée des applications web de A à Z. Ancien micro-entrepreneur, j'ai l'habit
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaal34&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide_title=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaal34&theme=github-dark-blue&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaal34&theme=github_dark&show_icons=true&hide_border=true&layout=compact&hide_title=true&langs_count=8" />
-</div>
-
-<!-- Snake animation - nécessite une GitHub Action, voir instructions ci-dessous -->
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/Vaal34/Vaal34/output/github-snake-dark.svg" alt="Snake animation" />
-</div> -->
-
----
-
 <div align="center">
 
 **Ouvert aux opportunités Fullstack sur Paris**
