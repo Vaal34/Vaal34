@@ -9,7 +9,6 @@ Diplômé RNCP 6 · Holberton School · Paris · **En recherche active CDI**
 
 <br/>
 
-<!-- Badges contact -->
 <a href="https://www.linkedin.com/in/valentin-melia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://www.valentinmelia.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:valentinmelia.pro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -29,7 +28,7 @@ statut: En recherche active — CDI Fullstack
 fun_fact: Ancien imprimeur reconverti en dev, je sais livrer dans les délais 🖨️➡️💻
 ```
 
-Je crée des applications web de A à Z. Ancien micro-entrepreneur, j'ai l'habitude de comprendre un besoin client, proposer une solution et livrer. Mon parcours atypique (imprimerie → dev) m'a donné une rigueur et un sens du détail que j'applique dans chaque projet.
+Je crée des applications web de A à Z. Micro-entrepreneur, j'ai l'habitude de comprendre un besoin client, proposer une solution et livrer. Mon parcours atypique (imprimerie → dev) m'a donné une rigueur et un sens du détail que j'applique dans chaque projet.
 
 ---
 
@@ -53,6 +52,7 @@ Je crée des applications web de A à Z. Ancien micro-entrepreneur, j'ai l'habit
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
 
 **Outils**
 
@@ -66,10 +66,18 @@ Je crée des applications web de A à Z. Ancien micro-entrepreneur, j'ai l'habit
 
 ---
 
-### 🚀 Projets phares
+### 🚀 Projets
 
 <table>
 <tr>
+<td width="50%">
+
+**🎓 [ClassBoard](https://github.com/Vaal34/ClassBoard)** `🚧 En cours`
+> Application desktop de gestion de classe — suivi des élèves, notes et organisation pour les enseignants
+
+`React` `Tailwind CSS` `Node.js` `Electron`
+
+</td>
 <td width="50%">
 
 **🍳 [AnCuisine](https://ancuisine.valentinmelia.com/)**
@@ -78,12 +86,22 @@ Je crée des applications web de A à Z. Ancien micro-entrepreneur, j'ai l'habit
 `Next.js` `TypeScript` `Tailwind` `Claude Code`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **🥖 [Boulangerie Maurice](https://mauricemateriel.fr/)**
 > Plateforme e-commerce — parcours d'achat optimisé, responsive
 
 `Next.js` `TypeScript` `Tailwind CSS`
+
+</td>
+<td width="50%">
+
+**🎰 [Loto Stats](https://github.com/Vaal34/loto-stats)**
+> Analyse statistique des tirages du Loto — fréquences, tendances et visualisation des données
+
+`React` `Tailwind CSS` `Node.js`
 
 </td>
 </tr>
