@@ -72,12 +72,22 @@ Je crée des applications web de A à Z. Micro-entrepreneur, j'ai l'habitude de 
 <tr>
 <td width="50%">
 
+**💼 [JobTracker](https://github.com/Vaal34/JobTracker)** `🚧 En cours`
+> SaaS de gestion d'offres d'emploi — tableau de bord, suivi de candidatures et automatisation par IA
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+</td>
+<td width="50%">
+
 **🎓 [ClassBoard](https://github.com/Vaal34/ClassBoard)** `🚧 En cours`
 > Application desktop de gestion de classe — suivi des élèves, notes et organisation pour les enseignants
 
 `React` `Tailwind CSS` `Node.js` `Electron`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **🍳 [AnCuisine](https://ancuisine.valentinmelia.com/)**
@@ -86,8 +96,6 @@ Je crée des applications web de A à Z. Micro-entrepreneur, j'ai l'habitude de 
 `Next.js` `TypeScript` `Tailwind` `Claude Code`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **🥖 [Boulangerie Maurice](https://mauricemateriel.fr/)**
@@ -96,6 +104,8 @@ Je crée des applications web de A à Z. Micro-entrepreneur, j'ai l'habitude de 
 `Next.js` `TypeScript` `Tailwind CSS`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **🎰 [Loto Stats](https://github.com/Vaal34/loto-stats)**
@@ -104,8 +114,6 @@ Je crée des applications web de A à Z. Micro-entrepreneur, j'ai l'habitude de 
 `React` `Tailwind CSS` `Node.js`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **🏦 Crédit Agricole — Service Innovation**
@@ -114,6 +122,8 @@ Je crée des applications web de A à Z. Micro-entrepreneur, j'ai l'habitude de 
 `Python` `OCR` `API ApiGouv`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **⚽ Toulouse Football Club**
@@ -122,9 +132,7 @@ Je crée des applications web de A à Z. Micro-entrepreneur, j'ai l'habitude de 
 `Flask` `SQLAlchemy` `JavaScript` `Tailwind`
 
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
+<td width="50%">
 
 **🏠 MyStudentFlat**
 > Agrégateur d'annonces immobilières étudiantes — données multi-sources
