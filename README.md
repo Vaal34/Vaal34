@@ -1,33 +1,49 @@
-## Hi there 👋
+# Valentin Melia — Développeur Fullstack 🚀
 
-I am a web development student with a strong passion for full-stack development. Currently, I'm focused on building solid skills in both front-end and back-end technologies.
+Développeur Fullstack diplômé du RNCP niveau 6 (Holberton School), je conçois des applications web performantes de l'interface utilisateur jusqu'à la base de données. Actuellement en recherche active d'un poste en CDI sur Paris.
 
-## 🔧 Technologies & Skills
+## 🛠️ Stack technique
 
-- **Front-end:** HTML, CSS, JavaScript, React, Next, Dart, Tailwind
-- **Back-end:** Node.js, Express, MySQL, Python, Flask, SqlAlchemy
-- **Other tools:** Git, GitHub, Docker, REST APIs
+| Frontend | Backend | Outils |
+|----------|---------|--------|
+| React · Next.js · TypeScript | Node.js · Python · Flask | Git · GitHub · Docker |
+| JavaScript · Tailwind CSS | SQL · SQLAlchemy · API REST | Claude Code · WordPress |
+| HTML · CSS | | |
 
-## 🌱 What I'm Currently Learning
+## 🚀 Projets phares
 
-I'm currently honing my full-stack development skills, with a particular focus on mastering React for front-end development and Node.js for back-end development.
+### [AnCuisine](https://ancuisine.valentinmelia.com/) — Application de gestion de recettes
+`Next.js` `TypeScript` `Tailwind CSS` `Claude Code`
+> Application complète avec interface réactive, gestion de base de données et déploiement en production.
 
-## 🎯 Goals
+### [Boulangerie Maurice](https://mauricemateriel.fr/) — Plateforme e-commerce
+`Next.js` `TypeScript` `Tailwind CSS`
+> E-commerce complet pour une boulangerie artisanale — parcours d'achat optimisé, responsive multi-appareils.
 
-My goal is to become a proficient full-stack developer capable of designing and implementing complete web applications, from user interface to database management.
+### Crédit Agricole — Service Innovation — Automatisation de rapports
+`Python` `OCR` `API ApiGouv`
+> Extraction de données via OCR et génération automatisée de rapports. Réduction significative du traitement manuel.
 
-## 📫 Contact
+### Toulouse Football Club — Application centre de formation
+`Flask` `SQLAlchemy` `JavaScript` `Tailwind CSS`
+> Application sur mesure pour le centre de formation du TFC — gestion de données complexes et interface personnalisée.
 
-Feel free to reach out to me to discuss web development, job opportunities, or collaborative projects.
+### MyStudentFlat — Centralisation d'annonces étudiantes
+`Flask` `SQLAlchemy` `Flutter`
+> Agrégation de données multi-sources avec structuration de base de données pour la recherche immobilière.
 
-- **Email:** [valentin.melia@holbertonstudents.com](mailto:valentin.melia@holbertonstudents.com)
-- **LinkedIn:** [Valentin Melia](https://www.linkedin.com/in/valentin-melia/)
-- **Portfolio:** [Valentin Melia](https://www.valentinmelia.com)
+## 📊 GitHub Stats
 
-
-<div style="display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vaal34&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Vaal34's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaal34&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Vaal34's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaal34&theme=dark&hide_border=true" alt="Vaal34's GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaal34&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaal34&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaal34&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+## 📬 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-melia/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.valentinmelia.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentinmelia.pro@gmail.com)
